@@ -1,0 +1,45 @@
+---
+title: "They won't use our new toys"
+author: "George Sawyer"
+date: "7/12/2017"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## The Presenting Problem
+
+The employees are not using SharePoint
+
+## Five Whys
+1.  Why are people not using SharePoint?  
+They like to use the old system  
+2.  Why do they like to use the old system?  
+They don’t want to use SharePoint?  
+3.  Why don’t they want to use SP?  
+They don’t think it is any better than old (maybe worse).  
+4.  Why don’t they think it’s better?  
+They haven’t been shown/taught  
+5.  [Why haven’t they been taught?  
+Leadership didn’t think it was necessary…]
+
+## Slide with Bullets
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+## Slide with R Output
+
+```{r cars, echo = TRUE}
+summary(cars)
+```
+
+## Slide with Plot
+
+```{r pressure}
+plot(pressure)
+```
+
